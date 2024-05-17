@@ -1,0 +1,16 @@
+/* Write your code here. */
+.app-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+}
+.items-list {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+  list-style-type: none;
+}
+.img-size{
+  height: 200px;
+  width: 200px;
+}
